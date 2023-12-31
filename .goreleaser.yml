@@ -20,7 +20,7 @@ brew:
   commit_author:
     name: Olivier Poitrey
     email: rs@rhapsodyk.net
-  homepage: https://github.com/rs/dnstrace
+  homepage: https://github.com/ateliersjp/dnstrace
   description: DNS resolution tracing tool
 nfpm:
   maintainer: Olivier Poitrey <rs@rhapsodyk.net>

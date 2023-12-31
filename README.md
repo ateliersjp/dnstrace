@@ -32,11 +32,11 @@ brew install rs/tap/dnstrace
 From source:
 
 ```
-go install github.com/rs/dnstrace@latest
+go install github.com/ateliersjp/dnstrace@latest
 ```
 
-Or download a [binary package](https://github.com/rs/dnstrace/releases/latest).
+Or download a [binary package](https://github.com/ateliersjp/dnstrace/releases/latest).
 
 # License
 
-All source code is licensed under the [MIT License](https://raw.github.com/rs/dnstrace/master/LICENSE).
+All source code is licensed under the [MIT License](https://raw.github.com/ateliersjp/dnstrace/master/LICENSE).
